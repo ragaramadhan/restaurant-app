@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Nasi Goreng",
+    "description": "Nasi goreng dengan bumbu khas Jawa yang gurih dan lezat.",
+    "price": "20000",
+    "imgUrl": "https://dcostseafood.id/wp-content/uploads/2022/04/Nasi-Goreng-spesial.jpg",
+    "categoryId": "1",
+    "authorId": "2"
+  },
+  {
+    "name": "Sushi",
+    "description": "Sushi tradisional Jepang dengan nasi dan ikan segar.",
+    "price": "50000",
+    "imgUrl": "https://yoona.id/wp-content/uploads/2022/06/berapa-kalori-sushi.jpg",
+    "categoryId": "2",
+    "authorId": "2"
+  },
+  {
+    "name": "Steak",
+    "description": "Daging steak panggang dengan bumbu khas western yang juicy.",
+    "price": "75000",
+    "imgUrl": "https://img.kurio.network/7VZFoyHWjGWkFsciTsRr9CwvtJI=/1200x1200/filters:quality(80)/https://kurio-img.kurioapps.com/21/02/22/3f68a325-d222-47e1-b58c-0a712f1ad436.jpe",
+    "categoryId": "3",
+    "authorId": "1"
+  },
+  {
+    "name": "Cheesecake",
+    "description": "Kue cheesecake lembut dengan rasa keju yang kaya.",
+    "price": "40000",
+    "imgUrl": "https://www.onceuponachef.com/images/2017/12/cheesecake-760x882.jpg",
+    "categoryId": "4",
+    "authorId": "1"
+  },
+  {
+    "name": "Es Teh Manis",
+    "description": "Minuman es teh manis yang menyegarkan.",
+    "price": "10000",
+    "imgUrl": "https://nilaigizi.com/assets/images/produk/produk_1578041377.jpg",
+    "categoryId": "5",
+    "authorId": "2"
+  },
+  {
+    "name": "Gudeg",
+    "description": "Gudeg khas Yogyakarta yang manis dan lezat.",
+    "price": "30000",
+    "imgUrl": "https://cdn1-production-images-kly.akamaized.net/t7qzpw3pG6-rG5Rh4x06RMlfSzw=/1200x900/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/776636/original/012158200_1417956101-gudeg.jpg",
+    "categoryId": "1",
+    "authorId": "2"
+  },
+  {
+    "name": "Ramen",
+    "description": "Mie ramen Jepang dengan kuah gurih dan topping lengkap.",
+    "price": "45000",
+    "imgUrl": "https://oishipedia.com/wp-content/uploads/2023/08/ramen-1-edited.jpg",
+    "categoryId": "2",
+    "authorId": "1"
+  },
+  {
+    "name": "Burger",
+    "description": "Burger daging sapi dengan sayuran segar dan saus.",
+    "price": "35000",
+    "imgUrl": "https://asset.kompas.com/crops/zbmx5CMyQLbONPHVHv3Ip4Ax9lg=/12x51:892x637/1200x800/data/photo/2022/03/05/622358ed771fb.jpg",
+    "categoryId": "3",
+    "authorId": "1"
+  },
+  {
+    "name": "Puding Coklat",
+    "description": "Puding coklat manis dengan tekstur lembut.",
+    "price": "15000",
+    "imgUrl": "https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2023/08/01021524/Ini-Cara-Membuat-Puding-Coklat-Favorit-Keluarga-di-Rumah-.jpg.webp",
+    "categoryId": "4",
+    "authorId": "1"
+  },
+  {
+    "name": "Kopi Hitam",
+    "description": "Kopi hitam tanpa gula dengan rasa pahit yang khas.",
+    "price": "15000",
+    "imgUrl": "https://res.cloudinary.com/dk0z4ums3/image/upload/v1709285903/attached_image/8-manfaat-kopi-hitam-tanpa-gula-untuk-kesehatan.jpg",
+    "categoryId": "5",
+    "authorId": "2"
+  },
+  {
+    "name": "Pecel Lele",
+    "description": "Lele goreng dengan sambal pecel khas Jawa yang pedas dan nikmat.",
+    "price": "25000",
+    "imgUrl": "https://asset.kompas.com/crops/vhkkKrYsJtPGU9jIpuht1703nLs=/0x0:1000x667/1200x800/data/photo/2021/03/21/60569b33a2b3d.jpeg",
+    "categoryId": "1",
+    "authorId": "1"
+  },
+  {
+    "name": "Tempura",
+    "description": "Gorengan khas Jepang dengan udang dan sayuran yang renyah.",
+    "price": "40000",
+    "imgUrl": "https://akcdn.detik.net.id/visual/2021/01/15/ilustrasi-tempura_169.jpeg?w=650",
+    "categoryId": "2",
+    "authorId": "2"
+  },
+  {
+    "name": "Pizza",
+    "description": "Pizza dengan topping keju, pepperoni, dan saus tomat khas Italia.",
+    "price": "60000",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Pizza-3007395.jpg/800px-Pizza-3007395.jpg",
+    "categoryId": "3",
+    "authorId": "1"
+  },
+  {
+    "name": "Tiramisu",
+    "description": "Dessert khas Italia dengan rasa kopi dan keju mascarpone.",
+    "price": "50000",
+    "imgUrl": "https://www.frisianflag.com/storage/app/media/uploaded-files/itra.jpg",
+    "categoryId": "4",
+    "authorId": "2"
+  },
+  {
+    "name": "Smoothie Berry",
+    "description": "Minuman smoothie campuran berbagai berry yang menyegarkan.",
+    "price": "30000",
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi2kMDyV_M-UwiV2NhyopLgWOPHYD3kjgfFg&s",
+    "categoryId": "5",
+    "authorId": "1"
+  },
+  {
+    "name": "Rawon",
+    "description": "Sup daging sapi dengan kuah hitam khas Jawa Timur.",
+    "price": "35000",
+    "imgUrl": "https://sanex.co.id/wp-content/uploads/2024/06/resep-rawon-daging-surabaya_43-1024x765.jpeg",
+    "categoryId": "1",
+    "authorId": "2"
+  },
+  {
+    "name": "Sashimi",
+    "description": "Potongan ikan segar khas Jepang, disajikan dengan wasabi.",
+    "price": "70000",
+    "imgUrl": "https://media.suara.com/pictures/653x366/2019/01/01/16162-sashimi-makanan-mentah-salmon-mentah-ikan-mentah.jpg",
+    "categoryId": "2",
+    "authorId": "2"
+  },
+  {
+    "name": "French Fries",
+    "description": "Kentang goreng renyah dengan garam dan saus pilihan.",
+    "price": "20000",
+    "imgUrl": "https://www.seriouseats.com/thmb/Il7mv9ZSDh7n0cZz3t3V-28ImkQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2018__04__20180309-french-fries-vicky-wasik-15-5a9844742c2446c7a7be9fbd41b6e27d.jpg",
+    "categoryId": "3",
+    "authorId": "1"
+  },
+  {
+    "name": "Chocolate Brownies",
+    "description": "Brownies coklat yang lembut dan manis, cocok untuk pencuci mulut.",
+    "price": "30000",
+    "imgUrl": "https://www.inspiredtaste.net/wp-content/uploads/2024/01/Brownies-Recipe-Video.jpg",
+    "categoryId": "4",
+    "authorId": "1"
+  },
+  {
+    "name": "Green Tea Latte",
+    "description": "Latte dengan rasa teh hijau yang lembut dan creamy.",
+    "price": "35000",
+    "imgUrl": "https://cdn1-production-images-kly.akamaized.net/6YHlnqwx_kfStdTAV9SxYh_H1Hc=/57x0:724x667/1200x1200/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3628134/original/074999800_1636516947-shutterstock_431091712.jpg",
+    "categoryId": "5",
+    "authorId": "2"
+  }
+]
