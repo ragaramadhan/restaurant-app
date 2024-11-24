@@ -1,7 +1,5 @@
-import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 // import cuisineJson from "../../cuisines.json";
-import axios from "axios";
 
 export default function Card({ cuisines }) {
   // const [cuisines, setCuisines] = useState([]);
