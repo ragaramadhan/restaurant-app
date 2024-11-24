@@ -49,7 +49,19 @@ export default function AddCuisine() {
         },
       }).showToast();
     } catch (error) {
-      console.log(error);
+      Toastify({
+        text: error.response.data.message,
+        duration: 3000,
+        newWindow: true,
+        close: true,
+        gravity: "bottom", // `top` or `bottom`
+        position: "right", // `left`, `center` or `right`
+        stopOnFocus: true, // Prevents dismissing of toast on hover
+        style: {
+          background: "#FF0000",
+          color: "#000000",
+        },
+      }).showToast();
     }
   }
   useEffect(() => {
