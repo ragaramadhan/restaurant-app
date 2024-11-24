@@ -2,7 +2,7 @@ import { useNavigate } from "react-router-dom";
 import FormCategory from "../components/FormCategory";
 import Toastify from "toastify-js";
 import axios from "axios";
-export default function AddCategoryPage({}) {
+export default function AddCategoryPage() {
   const navigate = useNavigate();
   const string = `Add Category`;
   async function handleSumbit(e, category) {

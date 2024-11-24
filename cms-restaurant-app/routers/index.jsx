@@ -7,8 +7,7 @@ import Toastify from "toastify-js";
 import AddUser from "../src/components/AddUser";
 import EditCuisine from "../src/components/EditCuisine";
 import Category from "../src/components/Category";
-import FormCategory from "../src/components/FormCategory";
-import AddCategoryPage from "../src/views/addCategoryPage";
+import AddCategoryPage from "../src/views/AddCategoryPage";
 
 const router = createBrowserRouter([
   {
